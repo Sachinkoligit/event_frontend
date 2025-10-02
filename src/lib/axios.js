@@ -1,6 +1,6 @@
 import axios from "axios";
 
 export const axiosInstance = axios.create({
-  baseURL: "https://event-backend-q6c6.onrender.com",
+  baseURL: "event-backend-bay.vercel.app",
   withCredentials: true,
 });
