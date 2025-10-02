@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "name": "Tech Conference 2025",
+    "date": "05/10/2025",
+    "location": "Dehradun",
+    "description": "It's a tech conference held on the given dates and technology experts and AI experts from across India will attend.",
+    "totalBooking": 500,
+    "booked": 300
+  },
+  {
+    "id": 2,
+    "name": "Tech Conference 2025",
+    "date": "05/10/2025",
+    "location": "Dehradun",
+    "description": "It's a tech conference held on the given dates and technology experts and AI experts from across India will attend.",
+    "totalBooking": 500,
+    "booked": 300
+  },
+  {
+    "id": 3,
+    "name": "Tech Conference 2025",
+    "date": "05/10/2025",
+    "location": "Dehradun",
+    "description": "It's a tech conference held on the given dates and technology experts and AI experts from across India will attend.",
+    "totalBooking": 500,
+    "booked": 300
+  },
+  {
+    "id": 4,
+    "name": "Tech Conference 2025",
+    "date": "05/10/2025",
+    "location": "Dehradun",
+    "description": "It's a tech conference held on the given dates and technology experts and AI experts from across India will attend.",
+    "totalBooking": 500,
+    "booked": 300
+  },
+  {
+    "id": 5,
+    "name": "Tech Conference 2025",
+    "date": "05/10/2025",
+    "location": "Dehradun",
+    "description": "It's a tech conference held on the given dates and technology experts and AI experts from across India will attend.",
+    "totalBooking": 500,
+    "booked": 300
+  },
+  {
+    "id": 6,
+    "name": "Tech Conference 2025",
+    "date": "05/10/2025",
+    "location": "Dehradun",
+    "description": "It's a tech conference held on the given dates and technology experts and AI experts from across India will attend.",
+    "totalBooking": 500,
+    "booked": 300
+  }
+]
+
