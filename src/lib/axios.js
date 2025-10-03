@@ -1,6 +1,6 @@
 import axios from "axios";
 
 export const axiosInstance = axios.create({
-  baseURL: "http://localhost:5001/api",
+  baseURL: "https://event-backend-1-dmpg.onrender.com/api",
   withCredentials: true,
 });
