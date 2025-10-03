@@ -113,7 +113,6 @@ export default function Main() {
     const newBooking = booking + 1;
     setBooking(newBooking);
     try {
-      await update({ booking: newBooking }); // assuming update expects an object
       const response = await axiosInstance.put(
         `/booking/book/${id}/${authUser._id}`
       );
